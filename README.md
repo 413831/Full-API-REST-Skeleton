@@ -3,9 +3,9 @@ Trabajo práctico obligatorio para materia Programación III
 
 ## La Comanda - Requerimiento ##
 
-1. WEB hosting -- REQUISITO EXCLUYENTE
-2. ABM - WEB SERVICE -POO- PDO
-3. ABM - API Rest - PDO (resto de las acciones).
+l. WEB hosting -- REQUISITO EXCLUYENTE
+l. ABM - WEB SERVICE -POO- PDO
+l. ABM - API Rest - PDO (resto de las acciones).
 4. ABM - todas las entidades
 5. LISTADO - EMPLEADOS (fecha logueo - cant. Operaciones - suspensión - borrado)
 6. LISTADO - todos los pedidos
