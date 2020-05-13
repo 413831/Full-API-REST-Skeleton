@@ -14,11 +14,11 @@ Trabajo práctico obligatorio para materia Programación III
   * -0.50%MANEJO DE ERRORES
   * -0.75%Archivos Excel o PDF
   * -100% archivos Excel y PDF
-9- (2pt)JWT :.
-  1.-0.50%logeo
-  2. -100%Perfiles .
+9. (2pt)JWT :.
+  * -0.50%logeo
+  * -100%Perfiles .
 Hasta acá un 4(cuatro) en segunda fecha de final10- (2pt) datos entre FECHAS :
-a-0.50% facturación
-b-0.75% comentarios y puntuación.
-c-100% estadísticas de empleados
+10. -0.50% facturación
+11. -0.75% comentarios y puntuación.
+12. -100% estadísticas de empleados
 
