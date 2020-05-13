@@ -17,8 +17,17 @@ Trabajo práctico obligatorio para materia Programación III
 9. (2pt)JWT :.
   * -0.50%logeo
   * -100%Perfiles .
-Hasta acá un 4(cuatro) en segunda fecha de final10- (2pt) datos entre FECHAS :
-10. -0.50% facturación
-11. -0.75% comentarios y puntuación.
-12. -100% estadísticas de empleados
+10. (2pt) datos entre FECHAS :
+  * -0.50% facturación
+  * -0.75% comentarios y puntuación.
+  * -100% estadísticas de empleados
+11. (2pt) Promedio mensual de datos:
+  * 0,50% Importe
+  * 0,75% Mesa
+  * 100% Empelado .
+12. (2pt) Manejo de archivo e imágenes( para todas las altas incluso para él tomar pedido
+de una foto:
+  * -0,50% Cambiar nombre, Guardar backup
+  * -0,75% Ponerle marca de agua a las imágenes
+  * -100% modificar el tamaño para guardarlas a no más de 0,5 MB.
 
