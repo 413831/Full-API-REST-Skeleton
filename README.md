@@ -1,27 +1,25 @@
-# Slim Framework 3 Skeleton Application
+#  Servicio API-REST con Base de datos MySql  #
+Trabajo práctico obligatorio para materia Programación III
 
-Use this skeleton application to quickly setup and start working on a new Slim Framework 3 application. This application uses the latest Slim 3 with the PHP-View template renderer. It also uses the Monolog logger.
+## La Comanda - Requerimiento ##
 
-This skeleton application was built for Composer. This makes setting up a new Slim Framework application quick and easy.
+1 - WEB hosting -- REQUISITO EXCLUYENTE
+2 - ABM - WEB SERVICE -POO- PDO
+3 - ABM - API Rest - PDO (resto de las acciones).
+4 - ABM - todas las entidades
+5 - LISTADO - EMPLEADOS (fecha logueo - cant. Operaciones - suspensión - borrado)
+6 - LISTADO - todos los pedidos
+7 - LISTADO - ( hora ini; hora fin; importe).
+8- (2pt) puntos extras:
+a-0.50%MANEJO DE ERRORES
+b-0.75%Archivos Excel o PDF
+c-100% archivos Excel y PDF
+9- (2pt)JWT :.
 
-## Install the Application
+a-0.50%logeo
+b-100%Perfiles .
+Hasta acá un 4(cuatro) en segunda fecha de final10- (2pt) datos entre FECHAS :
+a-0.50% facturación
+b-0.75% comentarios y puntuación.
+c-100% estadísticas de empleados
 
-Run this command from the directory in which you want to install your new Slim Framework application.
-
-    php composer.phar create-project slim/slim-skeleton [my-app-name]
-
-Replace `[my-app-name]` with the desired directory name for your new application. You'll want to:
-
-* Point your virtual host document root to your new application's `public/` directory.
-* Ensure `logs/` is web writeable.
-
-To run the application in development, you can run these commands 
-
-	cd [my-app-name]
-	php composer.phar start
-
-Run this command in the application directory to run the test suite
-
-	php composer.phar test
-
-That's it! Now go build something cool.
