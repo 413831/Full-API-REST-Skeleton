@@ -11,9 +11,9 @@ Trabajo práctico obligatorio para materia Programación III
 6. LISTADO - todos los pedidos
 7. LISTADO - ( hora ini; hora fin; importe).
 8. (2pt) puntos extras:
-  *. -0.50%MANEJO DE ERRORES
-  *. -0.75%Archivos Excel o PDF
-  *. -100% archivos Excel y PDF
+  * -0.50%MANEJO DE ERRORES
+  * -0.75%Archivos Excel o PDF
+  * -100% archivos Excel y PDF
 9- (2pt)JWT :.
   1.-0.50%logeo
   2. -100%Perfiles .
